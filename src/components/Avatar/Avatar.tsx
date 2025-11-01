@@ -7,6 +7,8 @@ type SimpleUser = {
   avatar?: string | null;
 };
 
+Teste
+
 interface AvatarProps {
   user?: SimpleUser;
   size?: "xs" | "sm" | "md" | "lg" | "xl" | "2xl";
